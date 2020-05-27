@@ -1,3 +1,4 @@
 # hello-word
-Primer acercamiento a GitHub
-Aprendiendo a usar Git Hub
+Primer acercamiento a GitHub.
+Aprendiendo a usar Git Hub.
+Estamos editando el archivo.
